@@ -13,7 +13,7 @@ The NWU Tech Trends Telemetry Portal is a web application designed for managing 
 - **User Authentication**: Secure login and account management.
 - **Responsive Design**: Optimized for use on various devices.
 
-### Getting Started
+### Getting Started-Using the application
 
 1. **Access the Web Application**:
    - Navigate to the hosted URL on Azure: `telemetryportalmvc20240817224543.azurewebsites.net`.
