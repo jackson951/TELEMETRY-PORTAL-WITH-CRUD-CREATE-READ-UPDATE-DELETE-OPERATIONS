@@ -6,14 +6,14 @@
 
 The NWU Tech Trends Telemetry Portal is a web application designed for managing CRUD (Create, Read, Update, Delete) operations related to project and client data. It provides users with an efficient way to track and manage their projects and clients.
 
-### Features
+## Features
 
 - **Project Management**: Create, view, edit, and delete project details.
 - **Client Management**: Manage client information with full CRUD functionality.
 - **User Authentication**: Secure login and account management.
 - **Responsive Design**: Optimized for use on various devices.
 
-### Getting Started-Using the application
+## Getting Started-Using the application
 
 1. **Access the Web Application**:
    - Navigate to the hosted URL on Azure: `telemetryportalmvc20240817224543.azurewebsites.net`.
@@ -27,14 +27,13 @@ The NWU Tech Trends Telemetry Portal is a web application designed for managing 
    - Go to the "Clients" section in the navigation bar.
    - Add new clients, update client information, view details, or remove clients from the database.
 
-### Security Features
+## Security Features
 
 - **Authentication**: The application requires users to log in to access project and client data.
 - **Security**: All sensitive operations are secured and require proper authentication.
 
-### Deployment
 
-### Deployment
+## Deployment
 
 The application is hosted on Azure App Services. All updates and changes are committed to the GitHub repository and are deployed automatically through the Azure App Service.
 
