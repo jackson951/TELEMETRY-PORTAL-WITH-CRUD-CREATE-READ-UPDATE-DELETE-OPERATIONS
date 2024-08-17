@@ -41,12 +41,12 @@ For any further modifications or updates, I ensure that changes are committed to
 
 ## Reference List
 
-1. Microsoft. (2024). *Build web apps with ASP.NET Core for beginners*. Available at: https://docs.microsoft.com/aspnet/core/fundamentals [Accessed 17 Aug. 2024].
+1. Microsoft. (2024). *Build web apps with ASP.NET Core for beginners*. Available at: https://docs.microsoft.com/aspnet/core/fundamentals [Accessed 16 Aug. 2024].
 
-2. Microsoft. (2024). *ASP.NET MVC Overview*. Available at: https://docs.microsoft.com/aspnet/mvc [Accessed 17 Aug. 2024].
+2. Microsoft. (2024). *ASP.NET MVC Overview*. Available at: https://docs.microsoft.com/aspnet/mvc [Accessed 16 Aug. 2024].
 
-3. Microsoft. (2024). *Secure a .NET web app with the ASP.NET Core Identity framework*. Available at: https://docs.microsoft.com/aspnet/core/security/authentication/identity [Accessed 17 Aug. 2024].
+3. Microsoft. (2024). *Secure a .NET web app with the ASP.NET Core Identity framework*. Available at: https://docs.microsoft.com/aspnet/core/security/authentication/identity [Accessed 16 Aug. 2024].
 
-4. S, P. (2024). *Design Patterns in .NET*. C# Corner. Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 17 Aug. 2024].
+4. Naik, K. (2024). *Design Patterns in .NET*. C# Corner. Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 16 Aug. 2024].
 
 5. Microsoft. (2024). *Entity Framework Core Documentation*. Available at: https://docs.microsoft.com/ef/core [Accessed 17 Aug. 2024].
