@@ -41,32 +41,32 @@ For any further modifications or updates, I ensure that changes are committed to
 
 ### Reference List
 
-1. Microsoft. (2024). *ASP.NET Core Documentation*. Available at: https://docs.microsoft.com/aspnet/core [Accessed 17 Aug. 2024].
-   - Provides comprehensive information on ASP.NET Core, including implementation details relevant to your project setup.
+1. Microsoft. (2024). *Build web apps with ASP.NET Core for beginners*. Available at: https://docs.microsoft.com/aspnet/core/fundamentals [Accessed 17 Aug. 2024].
+   - Provides foundational knowledge on building web applications with ASP.NET Core.
 
-2. Microsoft. (2024). *Entity Framework Core Documentation*. Available at: https://docs.microsoft.com/ef/core [Accessed 17 Aug. 2024].
-   - Essential for understanding Entity Framework Core, including repository patterns and data access operations.
+2. Microsoft. (2024). *ASP.NET MVC Overview*. Available at: https://docs.microsoft.com/aspnet/mvc [Accessed 17 Aug. 2024].
+   - Offers an overview of ASP.NET MVC, including its architecture and design patterns.
 
-3. Microsoft. (2024). *Azure App Service Documentation*. Available at: https://docs.microsoft.com/azure/app-service [Accessed 17 Aug. 2024].
-   - Covers deployment and hosting on Azure, including App Service setup and management.
+3. Microsoft. (2024). *Secure a .NET web app with the ASP.NET Core Identity framework*. Available at: https://docs.microsoft.com/aspnet/core/security/authentication/identity [Accessed 17 Aug. 2024].
+   - Details how to secure .NET web applications using ASP.NET Core Identity.
 
-4. Martin, R.C. (2008). *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice Hall.
-   - Provides insights into clean coding practices and design principles that can be applied in repository classes and other design patterns.
+4. Pratama, I. (2024). *Design Patterns In C# .NET*. C# Corner. Available at: https://www.c-sharpcorner.com/article/design-patterns-in-c-sharp-dot-net [Accessed 17 Aug. 2024].
+   - Discusses various design patterns applicable in C# .NET.
 
-5. Gamma, E., Helm, R., Johnson, R. and Vlissides, J. (1994). *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley.
-   - This seminal book on design patterns offers foundational knowledge on creating reusable and maintainable software components, including repository patterns.
+5. Pratama, I. (2024). *Architectural Patterns in .NET*. C# Corner. Available at: https://www.c-sharpcorner.com/article/architectural-patterns-in-dot-net [Accessed 17 Aug. 2024].
+   - Covers architectural patterns relevant to .NET applications.
 
-6. Fowler, M. (2002). *Patterns of Enterprise Application Architecture*. Addison-Wesley.
-   - Details enterprise application patterns, including repository and data access patterns relevant to your project.
+6. Microsoft. (2024). *Entity Framework Core Documentation*. Available at: https://docs.microsoft.com/ef/core [Accessed 17 Aug. 2024].
+   - Important for understanding Entity Framework Core and data access operations.
 
-7. GitHub. (2024). *GitHub Docs*. Available at: https://docs.github.com/en [Accessed 17 Aug. 2024].
-   - Useful for GitHub repository management, version control, and collaboration.
+7. Microsoft. (2024). *Azure App Service Documentation*. Available at: https://docs.microsoft.com/azure/app-service [Accessed 17 Aug. 2024].
+   - Covers deployment and management of apps on Azure App Service.
 
-8. Microsoft. (2024). *Visual Studio Documentation*. Available at: https://docs.microsoft.com/visualstudio [Accessed 17 Aug. 2024].
-   - Guides on using Visual Studio for project setup, integration, and development.
+8. GitHub. (2024). *GitHub Docs*. Available at: https://docs.github.com/en [Accessed 17 Aug. 2024].
+   - Provides guidance on GitHub repository management and version control.
 
-9. Stack Overflow. (2024). *Visual Studio and .NET Questions*. Available at: https://stackoverflow.com/questions/tagged/visual-studio [Accessed 17 Aug. 2024].
-   - Community-driven solutions and discussions on specific issues related to design patterns, repository implementation, and more.
+9. Microsoft. (2024). *Visual Studio Documentation*. Available at: https://docs.microsoft.com/visualstudio [Accessed 17 Aug. 2024].
+   - Useful for integrating GitHub with Visual Studio and managing project settings.
 
 10. Microsoft. (2024). *SQL Server Documentation*. Available at: https://docs.microsoft.com/sql/sql-server [Accessed 17 Aug. 2024].
-    - Provides information on SQL Server, including database connection and setup.
+    - Provides information on SQL Server, including database connection and configuration.
