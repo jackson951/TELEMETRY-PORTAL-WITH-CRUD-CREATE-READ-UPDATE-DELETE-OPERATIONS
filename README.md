@@ -16,7 +16,7 @@ The NWU Tech Trends Telemetry Portal is a web application designed for managing 
 ## Getting Started-Using the application
 
 1. **Access the Web Application**:
-   - Navigate to the hosted URL on Azure: `https://cmpg323-telemetryportalmvc20240818103231.azurewebsites.net`
+   - Navigate to the hosted URL on Azure: `https://cmpg323-telemetryportalmvc20240818103231.azurewebsites.net .`
    - Log in using your credentials. If you do not have an account, register a new account before managing clients and projects.
 
 2. **Manage Projects**:
