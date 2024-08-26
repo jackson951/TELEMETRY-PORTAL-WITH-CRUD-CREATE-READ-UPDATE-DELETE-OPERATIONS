@@ -50,3 +50,5 @@ For any further modifications or updates, I ensure that changes are committed to
 4. Naik, K. (2024). *Design Patterns in .NET*. C# Corner. Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 16 Aug. 2024].
 
 5. Microsoft. (2024). *Entity Framework Core Documentation*. Available at: https://docs.microsoft.com/ef/core [Accessed 17 Aug. 2024].
+
+[View the full list of sources](docs/YourDocument.docx)
