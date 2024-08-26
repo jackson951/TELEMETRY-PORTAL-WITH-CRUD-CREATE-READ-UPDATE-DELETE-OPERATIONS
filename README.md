@@ -51,4 +51,4 @@ For any further modifications or updates, I ensure that changes are committed to
 
 5. Microsoft. (2024). *Entity Framework Core Documentation*. Available at: https://docs.microsoft.com/ef/core [Accessed 17 Aug. 2024].
 
-[View the full list of sources](https://github.com/jackson951/CMPG323-PROJECT3-39990966/blob/8254af5a266a3b14a8ff9eedd9c0442983a4cb94/REFERENCE%20LIST.docx)
+**[📄 View the Full List of Sources](https://github.com/jackson951/CMPG323-PROJECT3-39990966/blob/8254af5a266a3b14a8ff9eedd9c0442983a4cb94/REFERENCE%20LIST.docx)**
